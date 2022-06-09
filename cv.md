@@ -6,7 +6,6 @@
 <div> 
     <ul>
         <li><a href="https://vk.com/kishkodiva">VK</a></li>
-        <li><a href="tel:+79109005682 ">89109005682</a></li>
         <li><a href="https://t.me/kishkodiva ">Telegram</a></li>
         <li><a href="https://github.com/k1shkod1va">Github</a></li>
      </ul>
