@@ -1,4 +1,4 @@
-<h1>Hi! My name is Maya Sweden о_0</h1>
+<h1 style="color:#ffc0cb">Hi! My name is Maya Sweden о_0</h1>
 <div>I'm 16 years old, I live in Russia, I'm studyind in high school. I just started programming, but I want to orient myself in this field.</div>
 
 
